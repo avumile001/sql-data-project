@@ -5,10 +5,10 @@ SELECT * FROM employees;
 
 ----EXAMPLE: Filter data----
 SELECT * FROM employees
-WHERE salary > 20000;
+WHERE age > 25;
 
 -----EXAMPLE: Basic grounding----
-SELECT department, COUNT(*) AS total_employee
+SELECT education, COUNT(*) AS total_employee
 FROM employees
-GROUP BY department;
+GROUP BY education;
 
