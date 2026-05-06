@@ -1,16 +1,27 @@
 # sql-data-project
 SQL DATA PROJECT
 
-## About
-This is my first data project where I practice SQL skills.
+## Overview
+This project demonstrates basic SQL skills using a simple employee dataset.
 
-## Skills used
-- SQL queries
+## Dataset
+The dataset contains employee information in a such as:
+- Education
+- Age
+- City
+- Payment Tier
+
+## Tools Used
+- SQL (MySQL / DBeaver / Workbench)
+- GitHub
+
+## What I did
+- Wrote SQL queries to filter and analyse data
+- Practiced SELECT, WHERE, GROUP BY statements
+- Worked with a real dataset (CSV format)
+
+## Key Skills Demonstrated
+- Data querying
 - Data filtering
-- Joins (basic level)
-
-## Tools
-- MySQL Workbench / DBeaver
-
-## Goal
-To build real-world data analysis skills using SQL.
+- Basic aggregation
+- Working with structured datasets
