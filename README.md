@@ -1,5 +1,4 @@
 # sql-data-project
-SQL DATA PROJECT
 
 ## About
 This is my first data project where I practice SQL skills.
